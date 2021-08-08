@@ -1,0 +1,30 @@
+*{
+    align-items: center;
+    text-align: center;
+}
+
+h1{
+    color: rgb(151, 145, 145);
+}
+
+p{
+    padding-bottom: 20px;
+}
+img{
+    border-radius: 60%;
+    width: 25%;
+    height: 250px;
+    border:2px rgb(151, 145, 145) solid;
+    margin-top:20px;
+}
+header{
+    background-color: rgb(230, 228, 228);
+    padding-top: 4px;
+    padding-bottom: 10px;
+}
+
+footer{
+    background-color: rgb(230, 228, 228);
+    padding-top: 1px;
+    padding-bottom: 10px;
+}
